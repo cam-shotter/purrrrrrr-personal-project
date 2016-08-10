@@ -26,7 +26,7 @@ Outside of this there could also be tips on how to take proper care of your anim
 
 Link to the repo (very important).
 
-https://github.com/cam-shotter/personal-projects
+https://github.com/cam-shotter/purrrrrrr-personal-project
 
 
 ## Technologies
@@ -37,13 +37,13 @@ What technologies are you using?
 ## Milestones
 
 ### MVP 1
--A site that shows the user a database of animals and allows them to save the ones they like.
+  -A site that shows the user a database of animals and allows them to save the ones they like.
 
 ### Stretch Goals
--Users have a profile that stores their data between sessions allowing them to pick up where they left off.
--The animal database is pulled from SPCA website, either through an API, a .csv file or a web scraper.
--The user is able to search through animals using different filters eg: dogs, cats, small animals etc; and display them in a variety of ways eg: alphebetical, colour etc.
--The user is able to keep track on the animals they have saved and see key details like vaccination/microchip status, profile views, how long they've been there etc.
--
+  -Users have a profile that stores their data between sessions allowing them to pick up where they left off.
+  -The animal database is pulled from SPCA website, either through an API, a .csv file or a web scraper.
+  -The user is able to search through animals using different filters eg: dogs, cats, small animals etc; and display them in a variety of ways eg: alphebetical, colour etc.
+  -The user is able to keep track on the animals they have saved and see key details like vaccination/microchip status, profile views, how long they've been there etc.
+
 
 What are the timings of your milestones?
