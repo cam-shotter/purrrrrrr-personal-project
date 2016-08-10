@@ -19,6 +19,7 @@ ___
 A description of your project.
 
 Idea 1:
+
 A tinder-esk app except intended for users looking for a new furry SPCA friend. Users would set up a profile and be shown a series of adorable potential pets based on a few filters (eg; dog, black lab, age<1 yr). The user could swipe left or right depending on what they thought of the pet's "profile" (which would include a few photos, their name, a quick description or story about them and their personality, maybe an indication of their cost, their age and where they are located) and the ones they liked would be saved to a shortlist on the user's profile. The app could then keep the user informed of how their potential pet is tracking, how many others have shortlisted them, and if they're still available for adoption.
 Outside of this there could also be tips on how to take proper care of your animal, what to feed them, helping them adjust to their new home etc.
 
@@ -50,4 +51,4 @@ ___
   * The user is able to keep track on the animals they have saved and see key details like vaccination/microchip status, profile views, how long they've been there etc.
 
 
-What are the timings of your milestones?
+### What are the timings of your milestones?
